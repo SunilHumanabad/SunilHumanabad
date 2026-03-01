@@ -1,9 +1,23 @@
-Hey! 👋 It's me Sunil Humanabad, a recent 🎓MCA graduate with interest in Python Full stack development.
+💻 Full‑Stack Developer with 2+ years of experience building scalable web applications across the full stack — from backend APIs to responsive front‑end interfaces.
 
-💼 Proficiencies: Specialization in languages including  Python, PHP and Core Java along with django and Wordpress frameworks. I also possess a strong proficiency in front-end technologies like HTML, CSS and JavaScript. I've worked extensively with React and Next.js recently.
+🧠 I work daily with Python (Flask, Django), Node.js, PHP (Laravel), and React, building RESTful APIs, MySQL schemas, and dynamic UIs using React.js and Next.js. I’m comfortable owning a feature end‑to‑end — from database design and API development to UI implementation.
 
-🎓 Educational Experience: During my graduation, I've independently undertaken several projects, gaining hands-on experience in creating web applications.
-			
-🌟 Zeal for Learning: I am deeply enthusiastic about continuous learning and staying abreast of the latest trends in web development. I consistently pursue new opportunities to refine my skills and expand my knowledge.
+🛠️ I also have hands‑on experience implementing and configuring Odoo ERP, including workflows and customizations, and I’m actively progressing into custom module development. My background includes REST API design, MySQL optimization, and integrating third‑party services.
 
-📫 Reach out and Connect: I'm always available for connecting with fellow developers, sharing insights, and teaming up on exciting projects. Let's connect! My virtual door is always open on sunilhumanabad@gmail.com / www.linkedin.com/in/sunilhumanabad.		
+🔧 Key parts of my stack:
+
+Backend: Python · Flask · Django · Node.js · PHP · Laravel
+
+Frontend: React.js · Next.js · JavaScript · Bootstrap
+
+ERP: Odoo implementation, configuration, and custom module development
+
+Database & tools: MySQL · Git · REST APIs · Google Analytics
+
+🎓 I hold an MCA from Sharnbasva University and have certifications in AWS Cloud Foundations, Python (Google/Coursera), and JavaScript (Cisco). I also published a research paper on Phishing Website Detection using ML Methods at an IEEE International Conference, blending web development and security interests.
+
+🏢 Currently working as a Full‑Stack Developer at Unplex Technologies, Bengaluru.
+
+📬 Open to full‑stack roles, freelance projects, and technically challenging opportunities.
+
+Email: sunilhumanabad@gmail.com | Portfolio: sunilhumanabad.vercel.app | LinkedIn: linkedin.com/in/sunilhumanabad.	
